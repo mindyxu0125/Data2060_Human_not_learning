@@ -56,11 +56,17 @@ conda activate cart-env
 This repository follows a clean, modular structure to separate data, implementation code, and documentation.  
 Below is the directory layout for the CART classification project:
 ├── data/ # Datasets used for training, testing, and evaluation
+
 ├── src/ # Source code implementation of the CART classifier
+
 ├── .gitignore # Git ignore rules for temporary and system files
+
 ├── LICENSE # Open-source license (MIT License)
+
 ├── README.md # Project documentation and usage guide
+
 ├── presentation.pdf # Final presentation slides for the project
+
 └── report.pdf # Final written report describing methods and results
 
 
